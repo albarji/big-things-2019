@@ -1,0 +1,16 @@
+name: bigthings
+dependencies:
+  - colorcet=2.0.2
+  - cudatoolkit=9.0
+  - cudnn=7.1.2
+  - keras-gpu=2.2.2
+  - jupyter=1.0.0
+  - holoviews=1.12.6
+  - nb_conda=2.2.1
+  - scikit-learn=0.19.1
+  - pandas=0.23.0
+  - pip=19.2.3
+  - pytorch=0.4.1
+  - tqdm=4.36.1
+  - pip:
+      - transformers==2.1.1
