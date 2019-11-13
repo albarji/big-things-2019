@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/bigthings.png" height="150"><br>
+  <img src="img/bigthings.png" height="450"><br>
 </div>
 
 # Solving Natural Language problems with scarce data
