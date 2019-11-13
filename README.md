@@ -8,7 +8,7 @@ This repository contains the source code and data used for the talk [Solving Nat
 
 To reproduce the experiments presented in the talk you will need to install an Anaconda Python 3 distribution, clone this repository, then create a Conda environment with
 
-    conda create -f environment.yml
+    conda env create -f environment.yml
     
 You can then login into the environment with
 
